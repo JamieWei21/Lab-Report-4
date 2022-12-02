@@ -10,7 +10,7 @@ that prints out the toString of and a message saying its a directory.
 First keysteps I did was I started the vim program in DocSearchServer.java.
 
 
-![image](https://github.com/JamieWei21/cse15l-lab-reports/blob/main/lab-report-4-1.PNG)
+![image](./lab-report-4-1.PNG)
 
 
 
