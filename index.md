@@ -17,22 +17,22 @@ First keysteps I did was I started the vim program in DocSearchServer.java.
 Next I will reach the point at where I am trying to add the line by clicking the downward key, I beleive I had to click it 14 times, you should be at the beggining of
 line if(f.isDirectory()){. 
 
-![image](https://github.com/JamieWei21/Lab-Report-4/blob/main/lab-report-4-2.PNG)
+![image](./lab-report-4-2.PNG)
 
 
 I will press the short cut keys <shift> + a to get to the end of that line(After hitting <shift> + A you should be in insert mode), I will add a new line by clicking enter.
 
-![image](https://github.com/JamieWei21/Lab-Report-4blob/main/lab-report-4-3.PNG)
+![image](./lab-report-4-3.PNG)
 
 
 After adding that newline, I will copy and paste System.out.println(f.toString() + “This is directory”); into the new line by clicking left key and right key at the same time.
   
- ![image](https://github.com/JamieWei21/Lab-Report-4/blob/main/lab-report-4-4.PNG)
+ ![image](./lab-report-4-4.PNG)
 
 After adding the new line, I made the spacing better by clicking backspace once and then space 4 times. After you must press esc to exit insert mode, and then enter in :wq to save and exit vim mode. 
   
   
-![image](https://github.com/JamieWei21/Lab-Report-4/blob/main/lab-report-4-5.PNG)
+![image](./lab-report-4-5.PNG)
 
 
 
@@ -44,9 +44,9 @@ To compare to just using vim to change the file, I then used a standard method o
 and then I made the changes to the line mentioned in part 1. Afterwards I scpd it into the remote server using command "ssh DocSearchServer.java cs15lfa22ir@ieng6.ucsd.edu". This would create the copy
 into my remote server. Afterwards I logged into my ssh server and then ran the command "bash test.sh". After all that, my time to complete was 1 minute 51 seconds. 
 
-![image](https://github.com/JamieWei21/Lab-Report-4/blob/main/lab-report-4-part2-1.PNG)
+![image](./lab-report-4-part2-1.PNG)
 
-![image](https://github.com/JamieWei21/Lab-Report-4/blob/main/lab-report-4-part2-2.PNG)
+![image](./lab-report-4-part2-2.PNG)
 
 
 Vim method
@@ -55,9 +55,9 @@ I started off in the remote server and then I used vim into the file DocSearchSe
 I did it in part 1. After running the command "bash test.sh", my time was 29 seconds.
 
 
-![image](https://github.com/JamieWei21/Lab-Report-4/blob/main/lab-report-4-part2-3.PNG)
+![image](./lab-report-4-part2-3.PNG)
   
-![image](https://github.com/JamieWei21/Lab-Report-4/blob/main/lab-report-4-part2-4.PNG)
+![image](./lab-report-4-part2-4.PNG)
 
 
 
