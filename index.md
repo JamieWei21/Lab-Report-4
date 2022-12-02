@@ -32,7 +32,7 @@ After adding that newline, I will copy and paste System.out.println(f.toString()
 After adding the new line, I made the spacing better by clicking backspace once and then space 4 times. After you must press esc to exit insert mode, and then enter in :wq to save and exit vim mode. 
   
   
-![image](./lab-report-4-5.PNG)
+![image](./lab-report4-5.PNG)
 
 
 
